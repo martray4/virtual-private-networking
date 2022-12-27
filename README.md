@@ -30,7 +30,15 @@ This tutorial outlines how to setup a vpn inside of an Azure virtual machine.<br
 <img src="https://i.imgur.com/ckgi30f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to your browser type in "what is my IP address.com" in the search bar. Take note of whatever your "IPv4" is, as well as your city. Next step, is to create your virtual machine in azure and connect to it with remote desktop. Then finally you will paste the public IP address of your newly created remote desktop connection. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/v9ctD5Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now you want to go to your browser from your remote desktop and type in, "whatismyIPaddress.com" and copy your new IPv4 address and citywithin your virtual machine (copy your virtual machine without any vpn) then sign into protonvpn.com and set up an account using local computer. Then you will copy the URL into your remote desktop, and inside your virtual machine you will install the windows VPN client, and simply login. 
 </p>
 <br />
 
@@ -38,14 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now you have made a connection and connected to a VPN server in Tokyo, Japan and its IP address will reflect that.
 </p>
 <br />
