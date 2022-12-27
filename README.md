@@ -43,7 +43,7 @@ Now you want to go to your browser from your remote desktop and type in, "whatis
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7vSfdxb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now you have made a connection and connected to a VPN server in Tokyo, Japan and its IP address will reflect that.
